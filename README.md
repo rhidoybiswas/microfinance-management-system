@@ -1,4 +1,4 @@
-# Microfinance Loan Management System
+# Microfinance Management System
 
 A full-stack financial application designed to simulate the core operations of a microfinance institution, covering customer management, security accounts, loan applications, loan approval, loan disbursement, installment collection, payment processing, financial journal transactions, and MIS-to-FIS financial processing.
 
